@@ -41,9 +41,7 @@ make
 ```
 
 This will compile the source files and create an executable named 
-```bash 
-conway.out
-```
+`conway.out`.
 
 ### Execution
 
