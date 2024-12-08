@@ -40,8 +40,10 @@ To compile the program, run the following command:
 make
 ```
 
-This will compile the source files and create an executable named ```bash 
-conway.out```.
+This will compile the source files and create an executable named 
+```bash 
+conway.out
+```.
 
 ### Execution
 
