@@ -36,7 +36,7 @@ The grid is periodic, meaning it wraps around at the edges.
 
 To compile the program, run the following command:
 
-```bash
+```sh
 make
 ```
 
@@ -50,7 +50,7 @@ To run the program, use the following command:
 ./conway.out
 ```
 
-The program expects inout in the following format: 
+The program expects input in the following format:
 ```bash
 <number_of_rows> <number_of_columns>
 <number_of_timesteps>
@@ -98,6 +98,6 @@ green: 2, red: 4
 
 ### Cleaning Up
 To remove the compiled executable, run the following command:
-```bash
+```sh
 make clean
 ```
