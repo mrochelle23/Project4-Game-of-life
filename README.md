@@ -36,10 +36,12 @@ The grid is periodic, meaning it wraps around at the edges.
 
 To compile the program, run the following command:
 
-```sh
+```bash
 make
+```
 
-The will complire the source files and create an executable names ```bash conway.out```
+This will compile the source files and create an executable named ```bash 
+conway.out```.
 
 ### Execution
 
@@ -54,6 +56,7 @@ The program expects inout in the following format:
 <number_of_timesteps>
 <initial_grid>
 ```
+
 Example input:
 ```bash
 5 4
@@ -95,5 +98,6 @@ green: 2, red: 4
 
 ### Cleaning Up
 To remove the compiled executable, run the following command:
-```sh
+```bash
 make clean
+```
